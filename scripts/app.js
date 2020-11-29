@@ -149,7 +149,7 @@ questions = [
         option3: "C. Akbar",
         option4: "D. Aurangzeb",
         correct: "d"
-    }
+    },
 	{
         question: "The Sikh Guru executed by the Mughal emperor Auranagazeb was",
         option1: "A. Tegh Bahadur",
@@ -157,7 +157,7 @@ questions = [
         option3: "C. Govind Singh",
         option4: "D. Arjun Dev",
         correct: "a"
-    }
+    },
 	{
         question: " The centre of Portuguese power in India was",
         option1: "A. Cochin",
@@ -165,7 +165,7 @@ questions = [
         option3: "C. Bijapur",
         option4: "D. Goa",
         correct: "d"
-    }
+    },
 	{
         question: "During whose reign Mughal army seized Hooghly from the Portuguese",
         option1: "A. Akbar",
@@ -173,7 +173,7 @@ questions = [
         option3: "C. Shahjahan",
         option4: "D. Aurangzeb",
         correct: "c"
-    }
+    },
 	{
         question: "Who assumed the title of ‘Gangaikondachola’?",
         option1: "A. Rajendra I",
@@ -181,7 +181,7 @@ questions = [
         option3: "C. Rajadhiraja I",
         option4: "D. Kulotunga I",
         correct: "a"
-    }
+    },
 	{
         question: "Which King founded the Vikramaslla University  ?",
         option1: "A. Dharmapala",
@@ -189,7 +189,7 @@ questions = [
         option3: "C. Devapala",
         option4: "D. Ballal Sen",
         correct: "a"
-    }
+    },
 	{
         question: "Who wrote ‘Rajatarangini",
         option1: "A. Megasthenes",
@@ -197,7 +197,7 @@ questions = [
         option3: "C. Al-Beruni",
         option4: "D. Herodotus",
         correct: "b"
-    }
+    },
 	{
         question: " When was the first battle of Tarain fought?",
         option1: "A. 1175 A.D",
@@ -205,7 +205,7 @@ questions = [
         option3: "C. 1192 A.D",
         option4: "D. 1206 A.D",
         correct: "b"
-    }
+    },
 	{
         question: "The decline of the Nandas at the hands of Kautilya and Chandragapta Maurya has been vividly portrayed in the Sanskrit Play",
         option1: "A. Mrichhakatika",
@@ -213,7 +213,7 @@ questions = [
         option3: "C. Mattavilasa",
         option4: "D. Mudrarakshasa",
         correct: "d"
-    }
+    },
 	{
         question: "In which year did Muhammad-bin-Qasim conquer Sind?",
         option1: "A. 712 A.D",
@@ -221,7 +221,7 @@ questions = [
         option3: "C. 718 A.D",
         option4: "D. 721 A.D",
         correct: "a"
-    }
+    },
 	{
         question: " The author of ‘Kadambari‘ was",
         option1: "A. Kshemendra",
