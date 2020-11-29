@@ -3,7 +3,7 @@ let questions_answered = [];
 let answerd_values = [];
 let marks = 0;
 let result_string = '';
-let counter_sec = 600;
+let counter_sec = 1080;
 
 function marksCalculation(){
     let q = document.getElementsByTagName('input');
