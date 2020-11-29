@@ -31,123 +31,203 @@ function marksCalculation(){
 
 questions = [
     {
-        question: "Buddhist doctrines are contained in?",
-        option1: "A. Jatakas",
-        option2: "B. Satapaths",
-        option3: "C. Upanishads",
-        option4: "D. Dhammapadas",
-        correct: "d"
+        question: "What is the name of the Lake between Godavari and Krishna deltaic region?",
+        option1: "A. Kolleru Lake",
+        option2: "B. Pulicat Lake",
+        option3: "C. Chilika Lake",
+        option4: "D. Loktak Lake",
+        correct: "a"
     },
     {
-        question: "Which of the following Gods does not belong to the Rigvedic period?",
-        option1: "A. Indra",
-        option2: "B. Maruts",
-        option3: "C. Shiva",
-        option4: "D. Aditi",
+        question: "The source of the Narmada River lies in ?",
+        option1: "A. Amarkantak Plateau",
+        option2: "B. Vindhya Range",
+        option3: "C. Maikhal Range",
+        option4: "D. Palni Hills",
+        correct: "a"
+    },
+    {
+        question: "Somasila Dam is located In which Indian State?",
+        option1: "A. Madhya Pradesh",
+        option2: "B. Karnataka",
+        option3: "C. Andhra Pradesh",
+        option4: "D. Maharashtra",
         correct: "c"
     },
     {
-        question: "‘Sabha’ & ‘Samiti’ are two democratic institutaion of?",
-        option1: "A. Rigvedic Aryan",
-        option2: "B. Dravidans",
-        option3: "C. Hilly Tribes of India",
-        option4: "D. Indus valley people",
-        correct: "a"
-    },
-    {
-        question: "‘Allahabad Pillar’ inscription was penned by?",
-        option1: "A. Harisena",
-        option2: "B. Ravikirti",
-        option3: "C. Rudradaman",
-        option4: "D. Banabhatta",
-        correct: "a"
-    },
-    {
-        question: "The great Bath was found in?",
-        option1: "A. Lothal",
-        option2: "B. Harappa",
-        option3: "C. Mohen-jo-daro",
-        option4: "D. Kalibangan",
-        correct: "c"
-    },
-    {
-        question: "In which ancient text you will find the earliest reference to the VarnaSystem",
-        option1: "A. Manu Samhita",
-        option2: "B. Rigveda",
-        option3: "C. Atharva Veda",
-        option4: "D. Satapatha Brahmana",
-        correct: "b"
-    },
-    {
-        question: "Who among the Gupta rulers was known as ‘Lichchavi-dauhitra’",
-        option1: "A. Samudragupta",
-        option2: "B. Chandragupta II",
-        option3: "C. Kumargupta",
-        option4: "D. Skandagupta",
-        correct: "a"
-    },
-    {
-        question: "Who issued the Nasik Prasasti (Inscription)?",
-        option1: "A. Gautamiputra Satakarni",
-        option2: "B. Samudragupta",
-        option3: "C. Harshavardhan",
-        option4: "D. Dharmapala",
-        correct: "a"
-    },
-    {
-        question: "The tropic of cancer does not pass through?",
-        option1: "A. Mizoram",
-        option2: "B. Tripura",
-        option3: "C. Orissa",
+        question: "Where is Vansda National Park Located?",
+        option1: "A. Uttar Pradesh",
+        option2: "B. Gujarat",
+        option3: "C. Rajasthan",
         option4: "D. Madhya Pradesh",
-        correct: "c"
-    },
-    {
-        question: "Lakshadweep is an island of?",
-        option1: "A. Coral island",
-        option2: "B. Volcanic island",
-        option3: "C. Tectonic island",
-        option4: "D. Alluvial island",
-        correct: "a"
-    },
-    {
-        question: "Rohilkhand region lies in ?",
-        option1: "A. Gujarat plains",
-        option2: "B. Western foothill- plains of the Aravalli",
-        option3: "C. Northern Uttar Pradesh",
-        option4: "D. Bihar",
-        correct: "c"
-    },
-    {
-        question: "In term of longitude the easternmost state of India is ?",
-        option1: "A. Mizoram",
-        option2: "B. Manipur",
-        option3: "C. Nagaland",
-        option4: "D. Arunachal Pradesh",
-        correct: "d"
-    },
-    {
-        question: "Duncan passage lies between ?",
-        option1: "A. Andaman and Nicobar Islands",
-        option2: "B. South Andaman and Little Andaman",
-        option3: "C. Little Andaman and Nicobar",
-        option4: "D. Amindivi and Lakshadweep Islands",
         correct: "b"
     },
     {
-        question: "What is the capital of Lakshadweep islands",
-        option1: "A. Kohima",
-        option2: "B. Port Blair",
-        option3: "C. Kavaratti",
-        option4: "D. None of these",
+        question: "The Fedchenko, Biafo and Hispar are the names of Himalayan",
+        option1: "A. Glaciers",
+        option2: "B. Lakes",
+        option3: "C. Hill Stations",
+        option4: "D. Trees",
+        correct: "a"
+    },
+    {
+        question: "The Patkoi bum forms the boundary between",
+        option1: "A. Arunachal Pradesh and Myanmar",
+        option2: "B. Manipur and Nagaland",
+        option3: "C. Assam and Meghalaya",
+        option4: "D. Meghalaya and Nagaland",
+        correct: "a"
+    },
+    {
+        question: "The fertile Bari Doab lies between?",
+        option1: "A. The Beas and the Sutlej rivers",
+        option2: "B. The Beas and the Ravi rivers ",
+        option3: "C. The Beas and the Chenub rivers",
+        option4: "D. none of the above",
+        correct: "b"
+    },
+    {
+        question: "Varanasi is located in",
+        option1: "A. Lower Ganaga plain",
+        option2: "B. Middle Ganga Plain",
+        option3: "C. Upper Ganga Plain",
+        option4: "D. Ganga-Sutlej interfluence",
+        correct: "b"
+    },
+    {
+        question: "Which one of the following is an inland river? (ontorbahi)",
+        option1: "A. Pennar",
+        option2: "B. Luni",
+        option3: "C. Narmada",
+        option4: "D. Jamuna",
+        correct: "b"
+    },
+    {
+        question: "Where do the Bhagirathi and the Alakananda meet at?",
+        option1: "A. Karnaprayag",
+        option2: "B. Rudraprayag",
+        option3: "C. Haridwar",
+        option4: "D. Devaprayag",
+        correct: "d"
+    },
+    {
+        question: "Which one of the following is the junction point of the Eastern Ghats and Western Ghats?",
+        option1: "A. Javadi",
+        option2: "B. Anaimalai",
+        option3: "C. Nilgiri",
+        option4: "D. Shevaroy",
         correct: "c"
     },
     {
-        question: "Coastline of which state is called Coromondal Caost ?",
-        option1: "A. Karnataka",
-        option2: "B. Kerala",
-        option3: "C. Orissa",
-        option4: "D. Tamil Nadu",
+        question: "Who assumed the title of ‘Haindava Dharmoddharak’?",
+        option1: "A. Guru Ramdas",
+        option2: "B. Shivaji",
+        option3: "C. Baji Rao I",
+        option4: "D. Balaji Baji Rao",
+        correct: "b"
+    },
+    {
+        question: "Who wrote Kitab-ul-Hind?",
+        option1: "A. Al-Masudi",
+        option2: "B. Al-Biruni",
+        option3: "C. Sulaiman",
+        option4: "D. Firdausi",
+        correct: "b"
+    },
+    {
+        question: "Who completed the Qutab Minar?",
+        option1: "A. Qutab-ud-Din Bakhtiyar Kaki",
+        option2: "B. Nasiruddin Qubacha",
+        option3: "C. Iltutmish",
+        option4: "D. Qutbuddin Aibak",
+        correct: "c"
+    },
+    {
+        question: "‘Sati’ of Hindu women was prohibited during the reign of which Mughal emperor?",
+        option1: "A. Jahangir",
+        option2: "B. Shah Jahan",
+        option3: "C. Akbar",
+        option4: "D. Aurangzeb",
+        correct: "d"
+    }
+	{
+        question: "The Sikh Guru executed by the Mughal emperor Auranagazeb was",
+        option1: "A. Tegh Bahadur",
+        option2: "B. Nanak",
+        option3: "C. Govind Singh",
+        option4: "D. Arjun Dev",
+        correct: "a"
+    }
+	{
+        question: " The centre of Portuguese power in India was",
+        option1: "A. Cochin",
+        option2: "B. Calicut",
+        option3: "C. Bijapur",
+        option4: "D. Goa",
+        correct: "d"
+    }
+	{
+        question: "During whose reign Mughal army seized Hooghly from the Portuguese",
+        option1: "A. Akbar",
+        option2: "B. Jahangir",
+        option3: "C. Shahjahan",
+        option4: "D. Aurangzeb",
+        correct: "c"
+    }
+	{
+        question: "Who assumed the title of ‘Gangaikondachola’?",
+        option1: "A. Rajendra I",
+        option2: "B. Rajaraja I",
+        option3: "C. Rajadhiraja I",
+        option4: "D. Kulotunga I",
+        correct: "a"
+    }
+	{
+        question: "Which King founded the Vikramaslla University  ?",
+        option1: "A. Dharmapala",
+        option2: "B. Dhruva",
+        option3: "C. Devapala",
+        option4: "D. Ballal Sen",
+        correct: "a"
+    }
+	{
+        question: "Who wrote ‘Rajatarangini",
+        option1: "A. Megasthenes",
+        option2: "B. Kalhana",
+        option3: "C. Al-Beruni",
+        option4: "D. Herodotus",
+        correct: "b"
+    }
+	{
+        question: " When was the first battle of Tarain fought?",
+        option1: "A. 1175 A.D",
+        option2: "B. 1191 A.D",
+        option3: "C. 1192 A.D",
+        option4: "D. 1206 A.D",
+        correct: "b"
+    }
+	{
+        question: "The decline of the Nandas at the hands of Kautilya and Chandragapta Maurya has been vividly portrayed in the Sanskrit Play",
+        option1: "A. Mrichhakatika",
+        option2: "B. Devi Chandragupta",
+        option3: "C. Mattavilasa",
+        option4: "D. Mudrarakshasa",
+        correct: "d"
+    }
+	{
+        question: "In which year did Muhammad-bin-Qasim conquer Sind?",
+        option1: "A. 712 A.D",
+        option2: "B. 715 A.D",
+        option3: "C. 718 A.D",
+        option4: "D. 721 A.D",
+        correct: "a"
+    }
+	{
+        question: " The author of ‘Kadambari‘ was",
+        option1: "A. Kshemendra",
+        option2: "B. Kalhana",
+        option3: "C. Bhababhuti",
+        option4: "D. Banabhatta",
         correct: "d"
     }
 ];
@@ -187,4 +267,3 @@ document.querySelector('fieldset').innerHTML = html_string;
 document.querySelector('button').addEventListener('click',() => {
     marksCalculation();
 });
-
