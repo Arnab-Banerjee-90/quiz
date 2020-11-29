@@ -261,7 +261,7 @@ setInterval(()=>{
 
 setTimeout(()=>{
     marksCalculation();
-},600*1000)
+},1080*1000)
 document.querySelector('fieldset').innerHTML = html_string;
 
 document.querySelector('button').addEventListener('click',() => {
