@@ -119,12 +119,12 @@ questions = [
         correct: "c"
     },
     {
-        question: "Which of the Act made the governor of Bengal as Governor General of India?",
+        question: "Which of the Act made the Governor General of Bengal as Governor General of India?",
         option1: "A. Pitt’s India Act, AD 1784",
         option2: "B. The charter Act, 1813 AD",
-        option3: "C. Charter Act, 1793 AD",
+        option3: "C. Charter Act, 1833 AD",
         option4: "D. The Regulating Act, AD 1773",
-        correct: "b"
+        correct: "c"
     },
     {
         question: "The ambassador of Emperor James I, who reached in the court of Jahangir in 1615 was __:",
