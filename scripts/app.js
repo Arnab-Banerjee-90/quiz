@@ -31,139 +31,139 @@ function marksCalculation(){
 
 questions = [
     {
-        question: "Bhur of Upper Ganga Plain of India is",
-        option1: "A. Undulating, aeolian sandy deposit",
-        option2: "B. Older alluvium",
-        option3: "C. Newer alluvium",
-        option4: "D. Muddy areas",
-        correct: "a"
-    },
-    {
-        question: "In India the maximum area is covered by the",
-        option1: "A. Laterite soil",
-        option2: "B. Red Soil",
-        option3: "C. Black Soil",
-        option4: "D. Alluvial Soils",
-        correct: "d"
-    },
-    {
-        question: "The most ideal region for the cultivation of cotton in India is",
-        option1: "A. Deccan Trap Region",
-        option2: "B. The Brahmaputra Valley",
-        option3: "C. Indo-Gangetic Plain",
-        option4: "D. Rann of Kutch",
-        correct: "a"
-    },
-    {
-        question: "Rain in cold weather, season is due to",
-        option1: "A. Norwesters",
-        option2: "B. Western disturbances",
-        option3: "C. Cold waves",
-        option4: "D. Arabian Sea depressions",
+        question: "Who was the Nawab of Bengal during the battle of Buxar ?",
+        option1: "A. Mir Qasim",
+        option2: "B. Mir Jafar",
+        option3: "C. Saja-Ud-Din",
+        option4: "D. Nizam-Ud-Daula",
         correct: "b"
     },
     {
-        question: "Where is saffron cultivated in India?",
-        option1: "A. Dun Valley.",
-        option2: "B. Chambal Valley",
-        option3: "C. Karewa Terrace",
-        option4: "D. Duars Plain",
-        correct: "c"
-    },
-    {
-        question: "The longest border of India is with",
-        option1: "A. Nepal",
-        option2: "B. Bhutan",
-        option3: "C. Afghanistan",
-        option4: "D. Bangladesh",
-        correct: "d"
-    },
-    {
-        question: "Muzaffarnagar in.Uttar Pradesh is famous for production of?",
-        option1: "A. Millet",
-        option2: "B. Cotton",
-        option3: "C. Sugarcane",
-        option4: "D. none of the above",
-        correct: "c"
-    },
-    {
-        question: "Bangladesh access the enclaves in Cooch Behar through the __________ corridor",
-        option1: "A. Teen Bigha",
-        option2: "B. Darjeeling",
-        option3: "C. Jalpaiguri",
-        option4: "D. none of the above",
-        correct: "a"
-    },
-    {
-        question: "Blue revolution is aimed at increasing the production of ——",
-        option1: "A. Milk",
-        option2: "B. Poultry",
-        option3: "C. Shrimp",
-        option4: "D. Indigo",
-        correct: "c"
-    },
-    {
-        question: "Bamboo, rags, rice bran are the main raw materials of  —— industry",
-        option1: "A. Chemical",
-        option2: "B. Fertilizer",
-        option3: "C. Cotton",
-        option4: "D. Paper",
-        correct: "d"
-    },
-    {
-        question: "Which state in India has the largest coal reserve",
-        option1: "A. Orissa",
-        option2: "B. Jharkhand",
-        option3: "C. Chattishgarh",
-        option4: "D. West bengal",
-        correct: "c"
-    },
-    {
-        question: "Which of the Act made the Governor General of Bengal as Governor General of India?",
-        option1: "A. Pitt’s India Act, AD 1784",
-        option2: "B. The charter Act, 1813 AD",
-        option3: "C. Charter Act, 1833 AD",
-        option4: "D. The Regulating Act, AD 1773",
-        correct: "c"
-    },
-    {
-        question: "The ambassador of Emperor James I, who reached in the court of Jahangir in 1615 was __:",
-        option1: "A. Sir James Hay",
-        option2: "B. Sir Thomas Roe",
-        option3: "C. Sir Thomas Howard",
-        option4: "D. Sir John Digby",
-        correct: "b"
-    },
-    {
-        question: "Which among the following travelers has recorded his experiences in “Kitab-i-Rehla”?",
-        option1: "A. Amir Khusro",
-        option2: "B. Ibn Battuta",
-        option3: "C. Malik Murtaza",
-        option4: "D. Al-Bayhaqi",
-        correct: "b"
-    },
-    {
-        question: "The pioneers of Ocean trade with India were______",
-        option1: "A. Dutch",
-        option2: "B. Portuguse",
-        option3: "C. British",
-        option4: "D. French",
-        correct: "b"
-    },
-	{
-        question: "First English factory in India was biult in?",
-        option1: "A. Bombay",
-        option2: "B. Surat",
-        option3: "C. Sutanuti",
-        option4: "D. Madras",
-        correct: "b"
-    },
-	{
-        question: "Battle of Carnatic (karnataker Juddho) was fought between?",
-        option1: "A. French EIC and English EIC",
-        option2: "B. French EIC and Dutch EIC",
-        option3: "C. Dutch and the Portuguese",
+        question: "The title of Raja was conferred upon Rammohan Roy by?",
+        option1: "A. Akbar II",
+        option2: "B. Mohammad Shah",
+        option3: "C. Bahadur Shah Zafar",
         option4: "D. None of the above",
+        correct: "a"
+    },
+    {
+        question: "Who was the Governor General of India during the revolt of 1857?",
+        option1: "A. William Bentick",
+        option2: "B. Lord Dalhousie",
+        option3: "C. Lord Canning",
+        option4: "D. Lord Cornwalis",
+        correct: "c"
+    },
+    {
+        question: "Who introduced railways and telegraphs in India",
+        option1: "A. William Bentick",
+        option2: "B. Lord Canning",
+        option3: "C. Lord Dalhousie",
+        option4: "D. None of the above",
+        correct: "c"
+    },
+    {
+        question: "Titumir was associated with which movement?",
+        option1: "A. Wahabi movement.",
+        option2: "B. Sepoy Mutiny",
+        option3: "C. Indigo Movement",
+        option4: "D. Faraji Movement",
+        correct: "a"
+    },
+    {
+        question: "Who was known as the Liberator of the press?",
+        option1: "A. Metcalfe",
+        option2: "B. Hastings",
+        option3: "C. Macaulay",
+        option4: "D. Bentick",
+        correct: "a"
+    },
+    {
+        question: "Tattwabodhini Sabha was founded by",
+        option1: "A. Debendranath Tagore",
+        option2: "B. Sivnath Sastri",
+        option3: "C. Keshab Chandra Sen",
+        option4: "D. Raja Ramohan Roy",
+        correct: "a"
+    },
+    {
+        question: "Why is 1761 is important in Indian history ?",
+        option1: "A. The English Company became the Diwan of Bengal",
+        option2: "B. Occupation of Delhi by the English Company’s army",
+        option3: "C. The Marathas were defeated in Third Battle of Panipat",
+        option4: "D. Death of Haider Ali of Mysore",
+        correct: "c"
+    },
+    {
+        question: "Who introduced Permanent Settlement (Chirosthayee Bondobosto)",
+        option1: "A. Lord Cornwallis",
+        option2: "B. Warren Hastings",
+        option3: "C. John Shore",
+        option4: "D. Lord Bentick",
+        correct: "a"
+    },
+    {
+        question: "Who was the Governor-General who decided in favour of Western education in India ?",
+        option1: "A. Lord Cornwallis",
+        option2: "B. Warren Hastings",
+        option3: "C. John Shore",
+        option4: "D. Lord Bentick",
+        correct: "d"
+    },
+    {
+        question: "Who was the Governor General when the first Anglo-Burmese war started ?",
+        option1: "A. George Barlow",
+        option2: "B. Lord Hastings ",
+        option3: "C. Lord Minto",
+        option4: "D. Lord Amherst",
+        correct: "d"
+    },
+    {
+        question: "Who among the following annexed Punjab into British Dominion?",
+        option1: "A. Elgin",
+        option2: "B. Minto",
+        option3: "C. Dalhousie",
+        option4: "D. Morley",
+        correct: "c"
+    },
+    {
+        question: "Which battle dashed the hopes of Dupleix to establish an empire in India?",
+        option1: "A. First Carnatic War",
+        option2: "B. Third Carnatic War",
+        option3: "C. Battle of Plassey",
+        option4: "D. Second Carnatic War",
+        correct: "d"
+    },
+    {
+        question: "Which of the sea ports have a natural harbor (swavabik potashroy)",
+        option1: "A. Chennai",
+        option2: "B. Visakhapatnam",
+        option3: "C. Haldia",
+        option4: "D. New Tuticorin",
+        correct: "b"
+    },
+    {
+        question: "In India Petrolium was first discovered in?",
+        option1: "A. Surma Valley",
+        option2: "B. Digboy",
+        option3: "C. Rudrasagar",
+        option4: "D. Nahorkatia",
+        correct: "b"
+    },
+	{
+        question: "In India, natural rate of increase of population was highest during ____ decade",
+        option1: "A. 1961-71",
+        option2: "B. 1981-91",
+        option3: "C. 1941-51",
+        option4: "D. None of the above",
+        correct: "a"
+    },
+	{
+        question: "Name the state of India where male-female ratio is adversely tilted against the female?",
+        option1: "A. Uttar Pradesh",
+        option2: "B. West Bengal",
+        option3: "C. Punjab",
+        option4: "D. Haryana",
         correct: "a"
     },
 	{
@@ -183,52 +183,52 @@ questions = [
         correct: "c"
     },
 	{
-        question: "Who was the Governor General during the annulment of ‘Sati’ ?",
-        option1: "A. Lord Bentinck",
-        option2: "B. Lord Hastings",
-        option3: "C. Lord Dalhousie ",
-        option4: "D. Lord Canning",
-        correct: "a"
-    },
-	{
-        question: "Kabuliyat and Patta as instruments of settlement were introduced by",
-        option1: "A. Sher-Shah",
-        option2: "B. Humayun",
-        option3: "C. Akbar",
-        option4: "D. Ibrahim Lodi",
-        correct: "a"
-    },
-	{
-        question: "The Asiatic Society of Bengal was founded by",
-        option1: "A. William Marshal",
-        option2: "B. Rammohan Roy",
-        option3: "C. Sir William Jones",
-        option4: "D. C.F Andrews",
+        question: " As per Census of 2011 the share of populations below the age of 35 years in India is?",
+        option1: "A. 50%",
+        option2: "B. 40%",
+        option3: "C. 65%",
+        option4: "D. 70%",
         correct: "c"
     },
 	{
-        question: "Malik Kafur was general of",
-        option1: "A. Firuz Shah Tughlag",
-        option2: "B. Chandragupta Maurya",
-        option3: "C. Bimbisara",
-        option4: "D. Alauddin Khilji",
-        correct: "d"
+        question: "The lowest female ratio to males among the states is in",
+        option1: "A. Arunachal Pradesh",
+        option2: "B. Tripura",
+        option3: "C. Sikkim",
+        option4: "D. Manipur",
+        correct: "c"
     },
 	{
-        question: " When did Vasco-da-Gama come to India ?",
-        option1: "A. 1498 A.D",
-        option2: "B. 1490 A.D",
-        option3: "C. 1492 A.D",
-        option4: "D. 1495 A.D",
-        correct: "a"
-    },
-	{
-        question: "Second Anglo-Maratha war was fought during?",
-        option1: "A. 1810-1812",
-        option2: "B. 1815-1816",
-        option3: "C. 1802-1805",
+        question: "The population growth rate in India is",
+        option1: "A. Increasing",
+        option2: "B. Constant",
+        option3: "C. Declining",
         option4: "D. None of the above",
         correct: "c"
+    },
+	{
+        question: "In India the sex ratio according to 2001 census is?",
+        option1: "A. 933 females/1000 males",
+        option2: "B. 927 females/1000 males",
+        option3: "C. 980 females/1000 males",
+        option4: "D. 951 females/1000 males",
+        correct: "a"
+    },
+	{
+        question: "Which of the following states has least population density, as per census 2011 ?",
+        option1: "A. Mizoram",
+        option2: "B. Tripura",
+        option3: "C. Arunachal Pradesh",
+        option4: "D. None of the Above",
+        correct: "c"
+    },
+	{
+        question: " In terms of area and population the largest urban agglomeration in India is",
+        option1: "A. Mumbai",
+        option2: "B. Delhi",
+        option3: "C. Kolkata",
+        option4: "D. Chennai",
+        correct: "a"
     }
 ];
 
