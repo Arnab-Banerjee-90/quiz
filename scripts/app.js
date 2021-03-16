@@ -31,44 +31,44 @@ function marksCalculation(){
 
 questions = [
     {
-        question: "Who was the Nawab of Bengal during the battle of Buxar ?",
-        option1: "A. Mir Qasim",
-        option2: "B. Mir Jafar",
-        option3: "C. Saja-Ud-Din",
-        option4: "D. Nizam-Ud-Daula",
+        question: "Which state has the longest border with West Bengal?",
+        option1: "A. Jharkhand",
+        option2: "B. Orissa",
+        option3: "C. Bangladesh",
+        option4: "D. None of the above",
+        correct: "a"
+    },
+    {
+        question: "Manos Sarovar is in?",
+        option1: "A. Karakoram Range",
+        option2: "B. Pirpanjal Range",
+        option3: "C. Kailash Range",
+        option4: "D. Mahabharata Range",
+        correct: "c"
+    },
+    {
+        question: "Telengana was Created in?",
+        option1: "A. 2014",
+        option2: "B. 2013",
+        option3: "C. 2012",
+        option4: "D. 2011",
+        correct: "a"
+    },
+    {
+        question: "Kolleru lake is situated between?",
+        option1: "A. Godaveri and Kaveri",
+        option2: "B. Godavari and Krishna",
+        option3: "C. Krishan and Kaveri",
+        option4: "D. None of the above",
         correct: "b"
     },
     {
-        question: "The title of Raja was conferred upon Rammohan Roy by?",
-        option1: "A. Akbar II",
-        option2: "B. Mohammad Shah",
-        option3: "C. Bahadur Shah Zafar",
+        question: "Calcutta-Mumbai road via Agra is known as?",
+        option1: "A. NH8",
+        option2: "B. NH6",
+        option3: "C. NH10",
         option4: "D. None of the above",
-        correct: "a"
-    },
-    {
-        question: "Who was the Governor General of India during the revolt of 1857?",
-        option1: "A. William Bentick",
-        option2: "B. Lord Dalhousie",
-        option3: "C. Lord Canning",
-        option4: "D. Lord Cornwalis",
-        correct: "c"
-    },
-    {
-        question: "Who introduced railways and telegraphs in India",
-        option1: "A. William Bentick",
-        option2: "B. Lord Canning",
-        option3: "C. Lord Dalhousie",
-        option4: "D. None of the above",
-        correct: "c"
-    },
-    {
-        question: "Titumir was associated with which movement?",
-        option1: "A. Wahabi movement.",
-        option2: "B. Sepoy Mutiny",
-        option3: "C. Indigo Movement",
-        option4: "D. Faraji Movement",
-        correct: "a"
+        correct: "b"
     },
     {
         question: "Who was known as the Liberator of the press?",
@@ -215,20 +215,20 @@ questions = [
         correct: "a"
     },
 	{
-        question: "Which of the following states has least population density, as per census 2011 ?",
-        option1: "A. Mizoram",
-        option2: "B. Tripura",
-        option3: "C. Arunachal Pradesh",
+        question: "Asiatic Society was Established by",
+        option1: "A. Sir William Jones",
+        option2: "B. Warren Hastings",
+        option3: "C. Lord Curzon",
         option4: "D. None of the Above",
-        correct: "c"
+        correct: "a"
     },
 	{
-        question: " In terms of area and population the largest urban agglomeration in India is",
-        option1: "A. Mumbai",
-        option2: "B. Delhi",
-        option3: "C. Kolkata",
-        option4: "D. Chennai",
-        correct: "a"
+        question: "Kubaliat and Patta was introduced by",
+        option1: "A. Akbar",
+        option2: "B. Shah Jahan",
+        option3: "C. Sher Shah",
+        option4: "D. Aurangzeb",
+        correct: "c"
     }
 ];
 
